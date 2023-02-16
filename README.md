@@ -14,7 +14,8 @@
 
 Here are some ideas to get you started:-->
 I am a BSC.IT student with a strong work ethic and a passion for technology. I am dedicated to gaining knowledge and skills in the field of CS and information technology. I am eager to apply my skills in real-world settings and to be a part of a team that is making a difference in the industry. In my free time, I enjoy exploring new technologies and staying up-to-date with the latest developments in the field.<br><br><br><br>
-<img src="https://media.tenor.com/urrYiV11LFsAAAAd/emotional-damage.gif" alt="emotional-damage" height="210px" width="350px">
+
+<img align="right" src="https://media.tenor.com/urrYiV11LFsAAAAd/emotional-damage.gif" alt="emotional-damage" height="210px" width="350px">
 
 - 🔭 I’m currently working on React Js.
 - 🌱 I’m currently learning MERN Stack.
