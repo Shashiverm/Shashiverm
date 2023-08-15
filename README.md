@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <!--<a herf="https://www.linkedin.com/in/shashikant-kumar-999126206/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
-  <a href="https://www.linkedin.com/in/shashikant-kumar-999126206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shashikantkumargaya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
   <br> 
   <br>
