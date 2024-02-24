@@ -3,7 +3,7 @@
 <br>
 <br>
 <p align="center">
-  <!--<a herf="https://www.linkedin.com/in/shashikant-kumar-999126206/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>-->
+
   <a href="https://www.linkedin.com/in/shashikantkumargaya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
   <br> 
@@ -18,8 +18,6 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
 <img align="right" src="https://media.tenor.com/urrYiV11LFsAAAAd/emotional-damage.gif" height="210px" width="350px">
 
 
-#- 🔭 I’m currently working on React Js.
-#- 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with my Projects
 - 💬 Ask me about frontend projects
@@ -31,7 +29,6 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-#![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
