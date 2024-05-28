@@ -33,6 +33,10 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 <br>
+- Some Basic Work 
+- <a href="https://shashiverm.github.io/portfolio/" target="_blank"> Portfolio</a>
+- <a href="https://shashiverm.github.io/weatherApI_Basic/" target="_blank"> Weather Apk Basic</a>
+- <a href="https://shashiverm.github.io/Netflix-Home-page_Basic/" target="_blank"> Netflix Basic Home Page</a>
 <h2>😄 Have Fun </h2>
 <br>
 <p align="center">
