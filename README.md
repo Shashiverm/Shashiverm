@@ -13,7 +13,7 @@
 **Shashiverm/Shashiverm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-I am a BSC.IT student with a strong work ethic and a passion for technology. I am dedicated to gaining knowledge and skills in the field of CS and information technology. I am eager to apply my skills in real-world settings and to be a part of a team that is making a difference in the industry. In my free time, I enjoy exploring new technologies and staying up-to-date with the latest developments in the field.<br><br><br><br>
+I am a BSC.IT student with a strong work ethic and a passion for technology. I am dedicated to gaining knowledge and skills in the field of CS and information technology. I am eager to apply my skills[...]
 
 <img align="right" src="https://media.tenor.com/urrYiV11LFsAAAAd/emotional-damage.gif" height="210px" width="350px">
 
@@ -37,6 +37,7 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
 - <a href="https://shashiverm.github.io/portfolio/" target="_blank"> Portfolio</a>
 - <a href="https://shashiverm.github.io/weatherApI_Basic/" target="_blank"> Weather Apk Basic</a>
 - <a href="https://shashiverm.github.io/Netflix-Home-page_Basic/" target="_blank"> Netflix Basic Home Page</a>
+
 <h2>😄 Have Fun </h2>
 <br>
 <p align="center">
@@ -45,6 +46,16 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
 
 ## 📊 GitHub Stats
 
-![Shashiverm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashiverm&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashiverm&show_icons=true&theme=radical" alt="Shashiverm's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiverm&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiverm&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashiverm&theme=radical" alt="GitHub Streak" />
+</p>
