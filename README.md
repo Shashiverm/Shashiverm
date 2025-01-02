@@ -42,3 +42,9 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke Card" />
 </p>
+
+## 📊 GitHub Stats
+
+![Shashiverm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashiverm&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiverm&layout=compact&theme=radical)
