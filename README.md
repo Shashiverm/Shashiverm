@@ -37,6 +37,7 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
 - <a href="https://shashiverm.github.io/portfolio/" target="_blank"> Portfolio</a>
 - <a href="https://shashiverm.github.io/weatherApI_Basic/" target="_blank"> Weather Apk Basic</a>
 - <a href="https://shashiverm.github.io/Netflix-Home-page_Basic/" target="_blank"> Netflix Basic Home Page</a>
+- <a href="https://personalfinnacetracker.netlify.app/index" target="_blank"> Personal Finnace Tracker</a>
 
 <h2>😄 Have Fun </h2>
 <br>
