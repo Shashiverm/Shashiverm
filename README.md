@@ -55,8 +55,3 @@ I am a BSC.IT student with a strong work ethic and a passion for technology. I a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiverm&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashiverm&theme=radical" alt="GitHub Streak" />
-</p>
