@@ -13,7 +13,10 @@
 **Shashiverm/Shashiverm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-I am a BSC.IT student with a strong work ethic and a passion for technology. I am dedicated to gaining knowledge and skills in the field of CS and information technology. I am eager to apply my skills[...]
+IT graduate with a strong programming and Web design core, developed through academic
+work and freelance work. Quite experienced with the application of AI concepts and algorithms in
+everyday problems. Proactive and enthusiastic towards technology with an ongoing quest to improve knowledge and technical expertise. Currently furthering my skills by doing MCA
+to be prepared for new and upcoming roles in the tech industry.[...]
 
 <img align="right" src="https://media.tenor.com/urrYiV11LFsAAAAd/emotional-damage.gif" height="210px" width="350px">
 
