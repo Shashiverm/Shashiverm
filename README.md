@@ -39,7 +39,7 @@ to be prepared for new and upcoming roles in the tech industry.[...]
 - Some Basic Work 
 - <a href="https://shashiverm.netlify.app/" target="_blank"> Portfolio</a>
 - <a href="https://shashiverm.github.io/weatherApI_Basic/" target="_blank"> Weather Apk Basic</a>
-- <a href="https://shashiverm.github.io/Netflix-Home-page_Basic/" target="_blank"> Netflix Basic Home Page</a>
+- <a href="https://good-bad-touch-lesson.vercel.app/" target="_blank">Good Touch Bad Touch </a>
 - <a href="https://personalfinnacetracker.netlify.app/index" target="_blank"> Personal Finnace Tracker</a>
 - [Resume Builder](https://basicresumebuild.netlify.app/)
 
