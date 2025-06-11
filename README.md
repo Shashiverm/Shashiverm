@@ -41,6 +41,7 @@ to be prepared for new and upcoming roles in the tech industry.[...]
 - <a href="https://shashiverm.github.io/weatherApI_Basic/" target="_blank"> Weather Apk Basic</a>
 - <a href="https://good-bad-touch-lesson.vercel.app/" target="_blank">Good Touch Bad Touch </a>
 - <a href="https://personalfinnacetracker.netlify.app/index" target="_blank"> Personal Finnace Tracker</a>
+- <a herf="https://the-mauryan-empire.vercel.app/" target="_blank">The Golden Era of India(Rise of The Magadha)</a> 
 - [Resume Builder](https://basicresumebuild.netlify.app/)
 
 <h2>😄 Have Fun </h2>
