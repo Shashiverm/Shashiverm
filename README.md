@@ -15,7 +15,7 @@
 Here are some ideas to get you started:-->
 IT graduate with a strong programming and Web design core, developed through academic
 work and freelance work. Quite experienced with the application of AI concepts and algorithms in
-everyday problems. Proactive and enthusiastic towards technology with an ongoing quest to improve knowledge and technical expertise. Currently furthering my skills by doing MCA
+everyday problems. Proactive and enthusiastic towards technology with an ongoing quest to improve knowledge and technical expertise. Currently, I am furthering my skills by doing MCA
 to be prepared for new and upcoming roles in the tech industry.[...]
 
 <img align="right" src="https://media.tenor.com/urrYiV11LFsAAAAd/emotional-damage.gif" height="210px" width="350px">
@@ -37,7 +37,7 @@ to be prepared for new and upcoming roles in the tech industry.[...]
 <br>
 <br>
 - Some Basic Work
-- <a herf="https://oncampusassesments.netlify.app/" target="_blank"> Assesment </a>
+- <a href="https://oncampusassesments.netlify.app/" target="_blank"> Assesment</a>
 - <a href="https://shashiverm.netlify.app/" target="_blank"> Portfolio</a>
 - <a href="https://shashiverm.github.io/weatherApI_Basic/" target="_blank"> Weather Apk Basic</a>
 - <a href="https://good-bad-touch-lesson.vercel.app/" target="_blank">Good Touch Bad Touch </a>
