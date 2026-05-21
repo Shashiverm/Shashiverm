@@ -54,10 +54,16 @@ to be prepared for new and upcoming roles in the tech industry.[...]
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashiverm&show_icons=true&theme=radical" alt="Shashiverm's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashiverm&layout=compact&theme=radical" alt="Top Langs" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shashiverm&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    height="180"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiverm&layout=compact&theme=radical"
+    alt="Top Languages"
+    height="180"
+  />
 </p>
 
