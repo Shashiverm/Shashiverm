@@ -40,7 +40,7 @@ IT graduate with a strong foundation in programming and web development, built t
 ## 🚀 Projects
 
 - 🌐 <a href="https://oncampusassesments.netlify.app/" target="_blank">Assessment Platform</a>
-- 💼 <a href="https://shashiverm.netlify.app/" target="_blank">Portfolio Website</a>
+- 💼 <a href="https://shashiverm.vercel.app/" target="_blank">Portfolio Website</a>
 - 🌦 <a href="https://shashiverm.github.io/weatherApI_Basic/" target="_blank">Weather App</a>
 - 🧒 <a href="https://good-bad-touch-lesson.vercel.app/" target="_blank">Good Touch Bad Touch Awareness</a>
 - 💰 <a href="https://personalfinnacetracker.netlify.app/index" target="_blank">Personal Finance Tracker</a>
@@ -57,17 +57,3 @@ IT graduate with a strong foundation in programming and web development, built t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashiverm&show_icons=true&theme=radical"
-    height="180"
-  />
-  
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashiverm&layout=compact&theme=radical"
-    height="180"
-  />
-</p>
-</p>
